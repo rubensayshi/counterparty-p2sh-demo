@@ -1,0 +1,17 @@
+{
+  "name": "counterparty-p2sh-example",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "bitcoinjs-lib": "^2.2.0",
+    "lodash": "^4.6.1",
+    "node-json-rpc": "0.0.1",
+    "q": "^1.4.1"
+  }
+}
